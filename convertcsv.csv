@@ -222,3 +222,4 @@
 "{'fish': 'tf.Tensor(0.98235244', 'no_fish': '0.01764755]],'}",[uploaded_image.link],2023-01-31 16:37:21.216415,1
 "{'fish': 'tf.Tensor(0.9875536', 'no_fish': '0.01244642]],'}",[uploaded_image.link],2023-01-31 16:37:22.783788,1
 "{'fish': 'tf.Tensor(0.9840715', 'no_fish': '0.01592852]],'}",[uploaded_image.link],2023-01-31 16:37:24.697055,1
+"{'fish': 'tf.Tensor(0.99741143', 'no_fish': '0.0025886'}",[uploaded_image.link],2023-01-31 16:37:26.753199,1
