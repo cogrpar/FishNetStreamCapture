@@ -383,3 +383,5 @@
 "{'fish': 'tf.Tensor(0.8889714', 'no_fish': '0.11102863]],'}",[uploaded_image.link],2023-01-31 16:44:40.674286,1
 "{'fish': 'tf.Tensor(0.9314406', 'no_fish': '0.06855936]],'}",[uploaded_image.link],2023-01-31 16:44:42.106884,1
 "{'fish': 'tf.Tensor(0.98404735', 'no_fish': '0.01595268]],'}",[uploaded_image.link],2023-01-31 16:44:43.477578,1
+"{'fish': 'tf.Tensor(0.9937968', 'no_fish': '0.00620315]],'}",[uploaded_image.link],2023-01-31 16:44:44.122299,1
+"{'fish': 'tf.Tensor(0.8925836', 'no_fish': '0.1074164]],'}",[uploaded_image.link],2023-01-31 16:46:54.244203,1
