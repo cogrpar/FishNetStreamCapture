@@ -607,3 +607,6 @@
 "{'fish': 'tf.Tensor(0.83079064', 'no_fish': '0.16920933]],'}",[uploaded_image.link],2023-02-02 17:39:44.869895,1
 "{'fish': 'tf.Tensor(0.60196996', 'no_fish': '0.39803'}",[uploaded_image.link],2023-02-02 17:39:46.752735,1
 "{'fish': 'tf.Tensor(0.93769646', 'no_fish': '0.0623035'}",[uploaded_image.link],2023-02-02 17:39:54.198293,1
+"{'White Sucker': <tf.Tensor: shape=(5,), dtype=float32, numpy=
+array([0.02645599, 0.584057  , 0.09124494, 0.2976969 , 0.00054528],
+      dtype=float32)>}",[uploaded_image.link],2023-02-02 17:43:15.671701,1
