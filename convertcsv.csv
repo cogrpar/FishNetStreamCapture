@@ -712,3 +712,6 @@ array([0.21488568, 0.0629767 , 0.6746784 , 0.03898298, 0.0084762 ],
 "{'White Sucker': <tf.Tensor: shape=(5,), dtype=float32, numpy=
 array([0.03171263, 0.9007378 , 0.0163856 , 0.05110147, 0.00006244],
       dtype=float32)>}",https://i.imgur.com/IcPOnNL.png,2023-02-09 20:02:33.561192,1
+"{'White Sucker': <tf.Tensor: shape=(5,), dtype=float32, numpy=
+array([0.14870587, 0.2969256 , 0.18673494, 0.34322533, 0.02440829],
+      dtype=float32)>}",https://i.imgur.com/C0ZLQLJ.png,2023-02-09 20:02:37.452673,1
