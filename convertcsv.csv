@@ -880,3 +880,6 @@ array([0.01661635, 0.01072652, 0.23085687, 0.7220725 , 0.01972784],
 "{'White Sucker': <tf.Tensor: shape=(5,), dtype=float32, numpy=
 array([0.00112751, 0.00006553, 0.99463487, 0.00415557, 0.00001665],
       dtype=float32)>}",https://i.imgur.com/mhMZurc.png,2023-02-15 22:17:02.117824,1
+"{'White Sucker': <tf.Tensor: shape=(5,), dtype=float32, numpy=
+array([0.06312099, 0.00002036, 0.00156941, 0.935177  , 0.00011224],
+      dtype=float32)>}",https://i.imgur.com/FZhoYBv.png,2023-02-15 22:17:05.599324,1
