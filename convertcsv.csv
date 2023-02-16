@@ -904,3 +904,6 @@ array([0.00000647, 0.00007446, 0.9895225 , 0.00000148, 0.01039498],
 "{'White Sucker': <tf.Tensor: shape=(5,), dtype=float32, numpy=
 array([0.2136726 , 0.00146481, 0.2590649 , 0.50437605, 0.02142164],
       dtype=float32)>}",https://i.imgur.com/Q7lHP0w.png,2023-02-15 22:17:31.405874,1
+"{'White Sucker': <tf.Tensor: shape=(5,), dtype=float32, numpy=
+array([0.00729122, 0.00000128, 0.00000348, 0.99270016, 0.00000388],
+      dtype=float32)>}",https://i.imgur.com/YGhNYVv.png,2023-02-15 22:17:35.603122,1
